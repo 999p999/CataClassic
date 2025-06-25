@@ -1,0 +1,21 @@
+## Interface: 40402
+## Version: v11.1.0-1.0.24b
+## Title: HekiliRNLib
+## IconTexture: Interface\AddOns\HekiliRNLib\Media\HekiliRNLib.png
+## Author: Terrorblade 
+## SavedVariables: RedneckSaved
+
+
+libs.xml
+
+
+Utils8.lua
+Utils3.lua
+Utils4.lua
+Utils6.lua
+Utils2.lua
+Utils7.lua
+Utils10.lua
+Lib1.lua
+Utils11.lua
+Utils12.lua
